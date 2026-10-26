@@ -2,8 +2,6 @@
 
 ### Software Engineer and Founder at Nexura Studio
 
-- 🔭 I'm currently working on **[Votera ID](https://votera.id)**, a vote management platform for corporate and professional needs.
-
 - 🌱 I'm currently learning **new full-stack technologies**.
 
 - 👯 I'm looking to collaborate on **[client projects at Nexura Studio](https://github.com/fadillrsyd)**.
@@ -18,7 +16,7 @@
 
 - ⚡ Fun fact **I founded Nexura Studio in 2024, while still writing code as a software engineer.**
 
-- 👨‍💻 All of my projects are available at **[Votera ID](https://votera.id)**.
+- 👨‍💻 All of my projects are available at **[Votera ID](https://votera.id)** & **[Alurkasku](https://alurkasku.com/)**.
 
 - 📝 I regularly write articles on **[my blog](https://github.com/fadillrsyd)**.
 

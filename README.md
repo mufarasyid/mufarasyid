@@ -4,11 +4,11 @@
 
 - 🌱 I'm currently learning **new full-stack technologies**.
 
-- 👯 I'm looking to collaborate on **[client projects at Nexura Studio](https://github.com/fadillrsyd)**.
+- 👯 I'm looking to collaborate on **[client projects at Nexura Studio](https://github.com/mufarasyid)**.
 
-- 🤝 I'm looking for help with **[systems design and scaling challenges](https://github.com/fadillrsyd)**.
+- 🤝 I'm looking for help with **[systems design and scaling challenges](https://github.com/mufarasyid)**.
 
-- 💬 Ask me about **[software engineering, UI/UX design, and full-stack development](https://github.com/fadillrsyd)**.
+- 💬 Ask me about **[software engineering, UI/UX design, and full-stack development](https://github.com/mufarasyid)**.
 
 - 📫 How to reach me **[rasyid08mufara@gmail.com](mailto:rasyid08mufara@gmail.com)**.
 
@@ -18,13 +18,13 @@
 
 - 👨‍💻 All of my projects are available at **[Votera ID](https://votera.id)** & **[Alurkasku](https://alurkasku.com/)**.
 
-- 📝 I regularly write articles on **[my blog](https://github.com/fadillrsyd)**.
+- 📝 I regularly write articles on **[my blog](https://github.com/mufarasyid)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/fadillrsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://github.com/mufarasyid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-fadillah-rasyid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fadillrsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mufarasyid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,10 +51,10 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fadillrsyd&label=Profile%20views&color=0e75b6&style=flat" alt="fadillrsyd" />
+  <img src="https://komarev.com/ghpvc/?username=mufarasyid&label=Profile%20views&color=0e75b6&style=flat" alt="mufarasyid" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadillrsyd&show_icons=true&locale=en&layout=compact" alt="fadillrsyd" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadillrsyd&show_icons=true&locale=en" alt="fadillrsyd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mufarasyid&show_icons=true&locale=en&layout=compact" alt="mufarasyid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mufarasyid&show_icons=true&locale=en" alt="mufarasyid" /></p>
 
-<p><img align="center" src="https://github-profile-streak-stats.herokuapp.com/?user=fadillrsyd&" alt="fadillrsyd" /></p>
+<p><img align="center" src="https://github-profile-streak-stats.herokuapp.com/?user=mufarasyid&" alt="mufarasyid" /></p>

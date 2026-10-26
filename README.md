@@ -32,7 +32,6 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html5" alt="HTML" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> </a>
@@ -41,7 +40,6 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> </a>

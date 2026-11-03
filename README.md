@@ -16,10 +16,6 @@
 
 - ⚡ Fun fact **I founded Nexura Studio in 2024, while still writing code as a software engineer.**
 
-- 👨‍💻 All of my projects are available at **[Votera ID](https://votera.id)** & **[Alurkasku](https://alurkasku.com/)**.
-
-- 📝 I regularly write articles on **[my blog](https://github.com/mufarasyid)**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/mufarasyid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>

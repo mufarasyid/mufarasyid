@@ -45,14 +45,3 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a>
 </p>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mufarasyid&label=Profile%20views&color=0e75b6&style=flat" alt="mufarasyid" />
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mufarasyid&show_icons=true&locale=en&layout=compact" alt="mufarasyid" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mufarasyid&show_icons=true&locale=en" alt="mufarasyid" /></p>
-
-<p><img align="center" src="https://github-profile-streak-stats.herokuapp.com/?user=mufarasyid&" alt="mufarasyid" /></p>
